@@ -1,0 +1,152 @@
+cards will be sorted by:
+
+alphabetical
+type (monster, spell, trap, etc)
+price
+
+[
+  {
+    "cardName": "Elemental HERO Bubbleman",
+    "type": "monster",
+    "price": 0.49,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/79979666.jpg"
+  },
+  {
+    "cardName": "Elemental HERO Stratos",
+    "type": "monster",
+    "price": 4.56,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/40044918.jpg"
+  },
+   {
+    "cardName": "Elemental HERO Neos Alius",
+    "type": "monster",
+    "price": 0.33,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/69884162.jpg"
+  },
+   {
+    "cardName": "Thunder King Rai-Oh",
+    "type": "monster",
+    "price": 8.01,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/71564252.jpg"
+  },
+   {
+    "cardName": "Honest",
+    "type": "monster",
+    "price": 1.41,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/37742478.jpg"
+  },
+   {
+    "cardName": "E - Emergency Call",
+    "type": "spell",
+    "price": 2.64,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/213326.jpg"
+  },
+   {
+    "cardName": "Gemini Spark",
+    "type": "spell",
+    "price": 2.61,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/33846209.jpg"
+  },
+   {
+    "cardName": "Miracle Fusion",
+    "type": "spell",
+    "price": 2.69,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/45906428.jpg"
+  },
+   {
+    "cardName": "Super Polymerization",
+    "type": "spell",
+    "price": 5.46,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/48130397.jpg"
+  },
+   {
+    "cardName": "Mystical Space Typhoon",
+    "type": "spell",
+    "price": 0.16,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/5318639.jpg"
+  },
+   {
+    "cardName": "Dark Hole",
+    "type": "spell",
+    "price": 0.90,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/53129443.jpg"
+  },
+     {
+    "cardName": "Heavy Storm",
+    "type": "spell",
+    "price": 2.25,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/19613556.jpg"
+  },
+     {
+    "cardName": "Monster Reborn",
+    "type": "spell",
+    "price": 1.85,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/83764719.jpg"
+  },
+     {
+    "cardName": "Bottomless Trap Hole",
+    "type": "trap",
+    "price": 2.59,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/29401950.jpg"
+  },
+     {
+    "cardName": "Compulsory Evacuation Device",
+    "type": "trap",
+    "price": 0.91,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/94192409.jpg"
+  },
+     {
+    "cardName": "Torrential Tribute",
+    "type": "trap",
+    "price": 0.88,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/53582587.jpg"
+  },
+     {
+    "cardName": "Solemn Warning",
+    "type": "trap",
+    "price": 1.05,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/84749824.jpg"
+  },
+     {
+    "cardName": "Solemn Judgment",
+    "type": "trap",
+    "price": 3.13,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/41420027.jpg"
+  },
+    {
+    "cardName": "Mirror Force",
+    "type": "trap",
+    "price": 0.96,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/44095762.jpg"
+  },
+    {
+    "cardName": "Elemental HERO The Shining",
+    "type": "fusion monster",
+    "price": 2.26,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/22061412.jpg"
+  },
+    {
+    "cardName": "Elemental HERO Absolute Zero",
+    "type": "fusion monster",
+    "price": 16.64,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/40854197.jpg"
+  },
+    {
+    "cardName": "Blade Armor Ninja",
+    "type": "exceed monster",
+    "price": 1.64,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/82944432.jpg"
+  },
+    {
+    "cardName": "Heroic Champion - Excalibur",
+    "type": "exceed monster",
+    "price": 0.63,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/60645181.jpg"
+  },
+    {
+    "cardName": "Gagaga Cowboy",
+    "type": "exceed monster",
+    "price": 2.42,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/12014404.jpg"
+  },
+]
